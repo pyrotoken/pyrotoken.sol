@@ -10,10 +10,12 @@ Total Supply: 1,000,000 $PYRO
 0% developer/marketing taxes.
 Ownership is fully renounced.
 
-Massive 20% of total supply has been burnt to date 🥵
-
 Important Links
+
 📲 TG: https://t.me/PyroToken
+
 🐦 Twitter: https://twitter.com/PyroTokenERC
+
 🌐 Website: https://pyrotokenerc.com
+
 📈 Dextools: https://www.dextools.io/app/ether/pair-explorer/0xB38Cb6d6e5B413BeEf2140f335048E436A0F10fb
